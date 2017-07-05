@@ -1,0 +1,9 @@
+Django==1.7.7
+django-debug-toolbar
+ply
+MySQL-python
+uwsgi
+flup
+Flask
+Pillow
+markdown2
